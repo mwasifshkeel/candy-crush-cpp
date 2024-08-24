@@ -70,7 +70,7 @@ The Candy Crush Game Development project focuses on creating a simplified versio
     - Features colored candies and an intuitive menu system for easy navigation.
     - Includes animations for cascading effects after matches are made.
 
-    ![User Interface Image](images/user_interface.png)
+    ![User Interface Image](images/user_interface.gif)
 
 ## Concepts and Utilization
 
@@ -95,7 +95,7 @@ The Candy Crush project successfully implements a simplified version of the game
 ## Authors
 
 - [Muhammad Wasif Shakeel](https://github.com/mwasifshkeel)
-- [Hajra Asif]
+- Hajra Asif
 
 ## License
 
