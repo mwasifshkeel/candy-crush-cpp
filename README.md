@@ -70,7 +70,7 @@ The Candy Crush Game Development project focuses on creating a simplified versio
     - Features colored candies and an intuitive menu system for easy navigation.
     - Includes animations for cascading effects after matches are made.
 
-    ![User Interface Image](https://github.com/mwasifshkeel/candy-crush-cpp/images/user_interface.gif)
+    ![User Interface Image](https://github.com/mwasifshkeel/candy-crush-cpp/tree/main/images/user_interface.gif)
 
 ## Concepts and Utilization
 
