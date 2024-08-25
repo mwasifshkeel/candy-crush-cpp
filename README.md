@@ -21,7 +21,7 @@ The Candy Crush Game Development project focuses on creating a simplified versio
 
 1. Clone the project repository or download it as a ZIP archive and extract it to your local machine.
     ```bash
-    git clone https://github.com/yourusername/candy-crush-game.git
+    git clone https://github.com/mwasifshkeel/candy-crush-cpp.git
     ```
 2. Launch Visual Studio Code on your computer.
 3. Open the project by selecting "Open Folder" from the welcome screen or navigating to `File > Open Folder` and selecting the project directory.
@@ -29,12 +29,8 @@ The Candy Crush Game Development project focuses on creating a simplified versio
 
 ### Running the Project
 
-1. Open the main project file, typically `main.cpp`.
-2. Compile and run the project using the build and run commands in Visual Studio Code, or use the integrated terminal:
-    ```bash
-    g++ -o candy_crush main.cpp
-    ./candy_crush
-    ```
+1. Open the main project file `CandyCrush.cpp`.
+2. Compile and run the project using the build and run commands in Visual Studio Code.
 
 ## Key Features and Functionalities Implemented
 
